@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void getMovies() {
         RequestParams params = new RequestParams();
-        params.add("api_key","a07e22bc18f5cb106bfe4cc1f83ad8ed");
+        params.add("api_key","your key");
         getMovieByRequest("now_playing",params);
     }
 

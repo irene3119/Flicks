@@ -22,7 +22,7 @@ public class YoutubePlayActivity extends YouTubeBaseActivity {
     private int movieId;
     private Youtubes youtubes;
     private YouTubePlayerView youTubePlayerView;
-    private String YOUTUBE_API_KEY = "your key";
+    private String YOUTUBE_API_KEY = "AIzaSyDVRm1DbekldL41WprX9gvnpPLa_yymuZw";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
